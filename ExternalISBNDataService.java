@@ -2,6 +2,7 @@ package com.validateSBN;
 
 public interface ExternalISBNDataService {
 
-	public Book lookup(String isbn);
+
+this is a new line made in local
 	
 }
